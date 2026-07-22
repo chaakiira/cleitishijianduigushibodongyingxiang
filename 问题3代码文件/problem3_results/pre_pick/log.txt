@@ -1,0 +1,8 @@
+模式: pre_pick_capacity_2
+随机种子: 42
+算法参数: {"population_size": 100, "generations": 400, "elite_size": 6, "tournament_size": 5, "crossover_rate": 0.9, "mutation_rate": 0.25, "stagnation_limit": 90, "seed": 42}
+实际迭代代数: 400
+总曼哈顿距离: 21654.000000
+运行时间(s): 94.923754
+槽位分配数量: [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+说明: Q3_mount_data.csv 中已有的 Feeder_ID 列未固定使用，程序按题意重新优化分配。
