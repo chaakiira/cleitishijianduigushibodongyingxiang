@@ -1,0 +1,12 @@
+数据文件: C:\Users\User\Desktop\B题数据\Q1_Q2_drill_data198.csv
+运行时间(s): 4.149466
+随机种子: 42
+算法参数: {"population_size": 50, "generations": 160, "elite_size": 4, "tournament_size": 4, "crossover_rate": 0.9, "mutation_rate": 0.2, "two_opt_elites": 2, "two_opt_trials": 2500, "stagnation_limit": 45, "seed": 42}
+各类型数量: {"A": 70, "B": 70, "C": 58}
+最佳孔径顺序: A → B → C
+移动距离(mm): 7597.335447
+移动时间(s): 75.973354
+换刀次数: 2
+换刀时间(s): 10.000000
+钻孔时间(s): 41.900000
+总完工时间(s): 127.873354
