@@ -1,0 +1,8 @@
+数据文件: C:\Users\User\Desktop\B题数据\Q1_Q2_drill_data50.csv
+数据规模: 50
+随机种子: 42
+算法参数: {"population_size": 50, "generations": 160, "elite_size": 4, "tournament_size": 4, "crossover_rate": 0.9, "mutation_rate": 0.2, "two_opt_elites": 2, "two_opt_trials": 2500, "stagnation_limit": 45, "seed": 42}
+实际迭代代数: 47
+最优路径长度(mm): 1912.837128
+移动时间(s): 19.128371
+运行时间(s): 0.427231
